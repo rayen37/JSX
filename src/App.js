@@ -4,7 +4,7 @@ import ImgSrc from './imageInSrc.jpg';
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <div style={{border:"solid 1px black" , maxWidth:"100vw" }}>
 
 <h1 class="title red">Your name here</h1>
